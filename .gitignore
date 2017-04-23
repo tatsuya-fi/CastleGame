@@ -80,3 +80,8 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+Assets/README_SD_UnityChan.txt
+Assets/README_SD_UnityChan.txt.meta
+
+# UnityChan
+Assets\UnityChan\License
